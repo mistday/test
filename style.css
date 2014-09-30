@@ -2,11 +2,12 @@ a {
   height: 100%;
 }
 b {
- width: 100%;
+ width: 90%;
 }
 hotfix {
-  float: right;
+  float: left;
   text-align: right;
+  padding: 0;
 }
 abc {
   font-size: .9em;

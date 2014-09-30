@@ -1,6 +1,12 @@
 a {
   height: 100%;
 }
+<<<<<<< HEAD
 b {
  width: 100%;
+=======
+hotfix {
+  float: right;
+  text-align: right;
+>>>>>>> hotfix
 }
